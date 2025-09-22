@@ -1,1 +1,1 @@
-# LearntJavascript-
+# learningjavascript-
